@@ -1,4 +1,4 @@
-# 🐍 Imersão Python: Análise de Dados | Alura
+# Imersão Python: Análise de Dados | Alura
 
 Este repositório reúne as atividades que desenvolvi durante a **Imersão Python: Análise de Dados da Alura**, realizada ao longo de três dias.
 
